@@ -32,3 +32,4 @@ function vowelCount(string){
   }
   return vowelMap;
 }
+//--------------------End--------------------//
